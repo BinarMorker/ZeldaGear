@@ -1,0 +1,3322 @@
+[
+  {
+    "name": "Champion's Tunic",
+    "icon": "BotW_Champion's_Tunic_Icon.png",
+    "set": "Unique",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 3
+        },
+        {
+          "name": "Shard of Farosh's Horn",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 3
+        },
+        {
+          "name": "Shard of Naydra's Horn",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 3
+        },
+        {
+          "name": "Shard of Dinraal's Horn",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Sand Boots",
+    "icon": "BotW_Sand_Boots_Icon.png",
+    "set": "Unique",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Molduga Fin",
+          "quantity": 5
+        },
+        {
+          "name": "Hightail Lizard",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Molduga Fin",
+          "quantity": 10
+        },
+        {
+          "name": "Swift Carrot",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Molduga Guts",
+          "quantity": 3
+        },
+        {
+          "name": "Rushroom",
+          "quantity": 15
+        }
+      ],
+      [
+        {
+          "name": "Molduga Guts",
+          "quantity": 5
+        },
+        {
+          "name": "Swift Violet",
+          "quantity": 15
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Snow Boots",
+    "icon": "BotW_Snow_Boots_Icon.png",
+    "set": "Unique",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Oktorok Tentacle",
+          "quantity": 5
+        },
+        {
+          "name": "Hightail Lizard",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Octo Balloon",
+          "quantity": 5
+        },
+        {
+          "name": "Swift Carrot",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Octorok Eyeball",
+          "quantity": 5
+        },
+        {
+          "name": "Rushroom",
+          "quantity": 15
+        }
+      ],
+      [
+        {
+          "name": "Naydra's Scale",
+          "quantity": 2
+        },
+        {
+          "name": "Swift Violet",
+          "quantity": 15
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Barbarian Helm",
+    "icon": "BotW_Barbarian_Helm_Icon.png",
+    "set": "Barbarian Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Lynel Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lynel Horn",
+          "quantity": 5
+        },
+        {
+          "name": "Lynel Hoof",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lynel Hoof",
+          "quantity": 8
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Guts",
+          "quantity": 2
+        },
+        {
+          "name": "Shard of Dinraal's Horn",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Barbarian Armor",
+    "icon": "BotW_Barbarian_Armor_Icon.png",
+    "set": "Barbarian Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Lynel Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lynel Horn",
+          "quantity": 5
+        },
+        {
+          "name": "Lynel Hoof",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lynel Hoof",
+          "quantity": 8
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Guts",
+          "quantity": 2
+        },
+        {
+          "name": "Shard of Farosh's Horn",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Barbarian Leg Wraps",
+    "icon": "BotW_Barbarian_Leg_Wraps_Icon.png",
+    "set": "Barbarian Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Lynel Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lynel Horn",
+          "quantity": 5
+        },
+        {
+          "name": "Lynel Hoof",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lynel Hoof",
+          "quantity": 8
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Guts",
+          "quantity": 2
+        },
+        {
+          "name": "Shard of Naydra's Horn",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Soldier's Helm",
+    "icon": "BotW_Soldier's_Helm_Icon.png",
+    "set": "Soldier Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Keese Eyeball",
+          "quantity": 3
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 5
+        },
+        {
+          "name": "Hinox Guts",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Lynel Hoof",
+          "quantity": 4
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Soldier's Armor",
+    "icon": "BotW_Soldier's_Armor_Icon.png",
+    "set": "Soldier Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Keese Eyeball",
+          "quantity": 3
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 5
+        },
+        {
+          "name": "Hinox Guts",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Hoof",
+          "quantity": 4
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Soldier's Greaves",
+    "icon": "BotW_Soldier's_Greaves_Icon.png",
+    "set": "Soldier Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Keese Eyeball",
+          "quantity": 3
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 5
+        },
+        {
+          "name": "Hinox Guts",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Hoof",
+          "quantity": 4
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Stealth Mask",
+    "icon": "BotW_Stealth_Mask_Icon.png",
+    "set": "Sheikah Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Blue Nightshade",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Blue Nightshade",
+          "quantity": 5
+        },
+        {
+          "name": "Sunset Firefly",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Silent Shroom",
+          "quantity": 8
+        },
+        {
+          "name": "Sneaker River Snail",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Stealthfin Fish",
+          "quantity": 10
+        },
+        {
+          "name": "Silent Princess",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Stealth Chest Guard",
+    "icon": "BotW_Stealth_Chest_Guard_Icon.png",
+    "set": "Sheikah Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Blue Nightshade",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Blue Nightshade",
+          "quantity": 5
+        },
+        {
+          "name": "Sunset Firefly",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Silent Shroom",
+          "quantity": 8
+        },
+        {
+          "name": "Sneaker River Snail",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Stealthfin Fish",
+          "quantity": 10
+        },
+        {
+          "name": "Silent Princess",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Stealth Tights",
+    "icon": "BotW_Stealth_Tights_Icon.png",
+    "set": "Sheikah Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Blue Nightshade",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Blue Nightshade",
+          "quantity": 5
+        },
+        {
+          "name": "Sunset Firefly",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Silent Shroom",
+          "quantity": 8
+        },
+        {
+          "name": "Sneaker River Snail",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Stealthfin Fish",
+          "quantity": 10
+        },
+        {
+          "name": "Silent Princess",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Zora Helm",
+    "icon": "BotW_Zora_Helm_Icon.png",
+    "set": "Zora Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Lizalfos Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Talon",
+          "quantity": 5
+        },
+        {
+          "name": "Hyrule Bass",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 5
+        },
+        {
+          "name": "Hearty Bass",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Opal",
+          "quantity": 15
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Zora Armor",
+    "icon": "BotW_Zora_Armor_Icon.png",
+    "set": "Zora Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Lizalfos Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Talon",
+          "quantity": 5
+        },
+        {
+          "name": "Hyrule Bass",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 5
+        },
+        {
+          "name": "Hearty Bass",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Opal",
+          "quantity": 15
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Zora Greaves",
+    "icon": "BotW_Zora_Greaves_Icon.png",
+    "set": "Zora Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Lizalfos Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Talon",
+          "quantity": 5
+        },
+        {
+          "name": "Hyrule Bass",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 5
+        },
+        {
+          "name": "Hearty Bass",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Opal",
+          "quantity": 15
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Radiant Mask",
+    "icon": "BotW_Radiant_Mask_Icon.png",
+    "set": "Radiant Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 5
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 8
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 10
+        },
+        {
+          "name": "Molduga Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 20
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Radiant Shirt",
+    "icon": "BotW_Radiant_Shirt_Icon.png",
+    "set": "Radiant Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 5
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 8
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 10
+        },
+        {
+          "name": "Molduga Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 20
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Radiant Tights",
+    "icon": "BotW_Radiant_Tights_Icon.png",
+    "set": "Radiant Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 5
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 8
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 10
+        },
+        {
+          "name": "Molduga Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Luminous Stone",
+          "quantity": 20
+        },
+        {
+          "name": "Lynel Guts",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Rubber Helm",
+    "icon": "BotW_Rubber_Helm_Icon.png",
+    "set": "Rubber Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Yellow Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Yellow Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Voltfruit",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Zapshroom",
+          "quantity": 5
+        },
+        {
+          "name": "Yellow Lizalfos Tail",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Yellow Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Topaz",
+          "quantity": 10
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Rubber Armor",
+    "icon": "BotW_Rubber_Armor_Icon.png",
+    "set": "Rubber Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Yellow Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Yellow Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Voltfruit",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Zapshroom",
+          "quantity": 5
+        },
+        {
+          "name": "Yellow Lizalfos Tail",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Yellow Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Topaz",
+          "quantity": 10
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Rubber Tights",
+    "icon": "BotW_Rubber_Tights_Icon.png",
+    "set": "Rubber Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Yellow Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Yellow Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Voltfruit",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Zapshroom",
+          "quantity": 5
+        },
+        {
+          "name": "Yellow Lizalfos Tail",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Yellow Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Topaz",
+          "quantity": 10
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Snowquill Headdress",
+    "icon": "BotW_Snowquill_Headdress_Icon.png",
+    "set": "Snowquill Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Red Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Red Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Warm Safflina",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Fire Keese Wing",
+          "quantity": 8
+        },
+        {
+          "name": "Sunshroom",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Red Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Ruby",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Snowquill Tunic",
+    "icon": "BotW_Snowquill_Tunic_Icon.png",
+    "set": "Snowquill Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Red Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Red Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Warm Safflina",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Fire Keese Wing",
+          "quantity": 8
+        },
+        {
+          "name": "Sunshroom",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Red Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Ruby",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Snowquill Trousers",
+    "icon": "BotW_Snowquill_Trousers_Icon.png",
+    "set": "Snowquill Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Red Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Red Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Warm Safflina",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Fire Keese Wing",
+          "quantity": 8
+        },
+        {
+          "name": "Sunshroom",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Red Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Ruby",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Cap of the Wind",
+    "icon": "BotW_Cap_of_the_Wind_Icon.png",
+    "set": "Wind Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Opal",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 20
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Tunic of the Wind",
+    "icon": "BotW_Tunic_of_the_Wind_Icon.png",
+    "set": "Wind Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Opal",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 20
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Trousers of the Wind",
+    "icon": "BotW_Trousers_of_the_Wind_Icon.png",
+    "set": "Wind Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Opal",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 20
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Cap of the Hero",
+    "icon": "BotW_Cap_of_the_Hero_Icon.png",
+    "set": "Hero Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Ruby",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Tunic of the Hero",
+    "icon": "BotW_Tunic_of_the_Hero_Icon.png",
+    "set": "Hero Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Ruby",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Trousers of the Hero",
+    "icon": "BotW_Trousers_of_the_Hero_Icon.png",
+    "set": "Hero Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Ruby",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Hylian Hood",
+    "icon": "BotW_Hylian_Hood_Icon.png",
+    "set": "Hylian Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Bokoblin Horn",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Horn",
+          "quantity": 8
+        },
+        {
+          "name": "Bokoblin Fang",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Fang",
+          "quantity": 10
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 15
+        },
+        {
+          "name": "Amber",
+          "quantity": 30
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Hylian Tunic",
+    "icon": "BotW_Hylian_Tunic_Icon.png",
+    "set": "Hylian Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Bokoblin Horn",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Horn",
+          "quantity": 8
+        },
+        {
+          "name": "Bokoblin Fang",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Fang",
+          "quantity": 10
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 15
+        },
+        {
+          "name": "Amber",
+          "quantity": 30
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Hylian Trousers",
+    "icon": "BotW_Hylian_Trousers_Icon.png",
+    "set": "Hylian Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Bokoblin Horn",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Horn",
+          "quantity": 8
+        },
+        {
+          "name": "Bokoblin Fang",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Fang",
+          "quantity": 10
+        },
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Bokoblin Guts",
+          "quantity": 15
+        },
+        {
+          "name": "Amber",
+          "quantity": 30
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Cap of Time",
+    "icon": "BotW_Cap_of_Time_Icon.png",
+    "set": "Time Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Amber",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 15
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 30
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Tunic of Time",
+    "icon": "BotW_Tunic_of_Time_Icon.png",
+    "set": "Time Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Amber",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 15
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 30
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Trousers of Time",
+    "icon": "BotW_Trousers_of_Time_Icon.png",
+    "set": "Time Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Amber",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 15
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 30
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Cap of Twilight",
+    "icon": "BotW_Cap_of_Twilight_Icon.png",
+    "set": "Twilight Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Topaz",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Tunic of Twilight",
+    "icon": "BotW_Tunic_of_Twilight_Icon.png",
+    "set": "Twilight Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Topaz",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Trousers of Twilight",
+    "icon": "BotW_Trousers_of_Twilight_Icon.png",
+    "set": "Twilight Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Topaz",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Cap of the Wild",
+    "icon": "BotW_Cap_of_the_Wild_Icon.png",
+    "set": "Wild Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Acorn",
+          "quantity": 10
+        },
+        {
+          "name": "Farosh's Scale",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Courser Bee Honey",
+          "quantity": 5
+        },
+        {
+          "name": "Farosh's Claw",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Energetic Rhino Beetle",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Farosh's Fang",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Shard of Farosh's Horn",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Tunic of the Wild",
+    "icon": "BotW_Tunic_of_the_Wild_Icon.png",
+    "set": "Wild Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Acorn",
+          "quantity": 10
+        },
+        {
+          "name": "Naydra's Scale",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Courser Bee Honey",
+          "quantity": 5
+        },
+        {
+          "name": "Naydra's Claw",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Energetic Rhino Beetle",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Naydra's Fang",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Shard of Naydra's Horn",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Trousers of the Wild",
+    "icon": "BotW_Trousers_of_the_Wild_Icon.png",
+    "set": "Wild Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Acorn",
+          "quantity": 10
+        },
+        {
+          "name": "Dinraal's Scale",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Courser Bee Honey",
+          "quantity": 5
+        },
+        {
+          "name": "Dinraal's Claw",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Energetic Rhino Beetle",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Dinraal's Fang",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Shard of Dinraal's Horn",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Ancient Helm",
+    "icon": "BotW_Ancient_Helm_Icon.png",
+    "set": "Ancient Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Ancient Screw",
+          "quantity": 5
+        },
+        {
+          "name": "Ancient Spring",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ancient Spring",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Gear",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Ancient Shaft",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Core",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Giant Ancient Core",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Ancient Cuirass",
+    "icon": "BotW_Ancient_Cuirass_Icon.png",
+    "set": "Ancient Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Ancient Screw",
+          "quantity": 5
+        },
+        {
+          "name": "Ancient Spring",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ancient Spring",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Gear",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Ancient Shaft",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Core",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Giant Ancient Core",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Ancient Greaves",
+    "icon": "BotW_Ancient_Greaves_Icon.png",
+    "set": "Ancient Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Ancient Screw",
+          "quantity": 5
+        },
+        {
+          "name": "Ancient Spring",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ancient Spring",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Gear",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Ancient Shaft",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Core",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Giant Ancient Core",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Cap of the Sky",
+    "icon": "BotW_Cap_of_the_Sky_Icon.png",
+    "set": "Sky Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Tunic of the Sky",
+    "icon": "BotW_Tunic_of_the_Sky_Icon.png",
+    "set": "Sky Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Trousers of the Sky",
+    "icon": "BotW_Trousers_of_the_Sky_Icon.png",
+    "set": "Sky Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 5
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Desert Voe Headband",
+    "icon": "BotW_Desert_Voe_Headband_Icon.png",
+    "set": "Desert Voe Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "White Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "White Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 8
+        },
+        {
+          "name": "Icy Lizalfos Tail",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Icy Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Sapphire",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Desert Voe Spaulder",
+    "icon": "BotW_Desert_Voe_Spaulder_Icon.png",
+    "set": "Desert Voe Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "White Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "White Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 8
+        },
+        {
+          "name": "Icy Lizalfos Tail",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Icy Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Sapphire",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Desert Voe Trousers",
+    "icon": "BotW_Desert_Voe_Trousers_Icon.png",
+    "set": "Desert Voe Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "White Chuchu Jelly",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "White Chuchu Jelly",
+          "quantity": 5
+        },
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 8
+        },
+        {
+          "name": "Icy Lizalfos Tail",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Icy Lizalfos Tail",
+          "quantity": 10
+        },
+        {
+          "name": "Sapphire",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Fierce Deity Mask",
+    "icon": "BotW_Fierce_Deity_Mask_Icon.png",
+    "set": "Fierce Diety Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Hinox Toenail",
+          "quantity": 5
+        },
+        {
+          "name": "Dinraal's Scale",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Hinox Tooth",
+          "quantity": 5
+        },
+        {
+          "name": "Dinraal's Claw",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Hinox Guts",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Dinraal's Fang",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Guts",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Dinraal's Horn",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Fierce Deity Armor",
+    "icon": "BotW_Fierce_Deity_Armor_Icon.png",
+    "set": "Fierce Diety Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Hinox Toenail",
+          "quantity": 5
+        },
+        {
+          "name": "Naydra's Scale",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Hinox Tooth",
+          "quantity": 5
+        },
+        {
+          "name": "Naydra's Claw",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Hinox Guts",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Naydra's Fang",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Guts",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Naydra's Horn",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Fierce Deity Boots",
+    "icon": "BotW_Fierce_Deity_Boots_Icon.png",
+    "set": "Fierce Diety Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Hinox Toenail",
+          "quantity": 5
+        },
+        {
+          "name": "Farosh's Scale",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Hinox Tooth",
+          "quantity": 5
+        },
+        {
+          "name": "Farosh's Claw",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Hinox Guts",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Farosh's Fang",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Lynel Guts",
+          "quantity": 5
+        },
+        {
+          "name": "Shard of Farosh's Horn",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Flamebreaker Helm",
+    "icon": "BotW_Flamebreaker_Helm_Icon.png",
+    "set": "Flamebreaker Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Fireproof Lizard",
+          "quantity": 3
+        },
+        {
+          "name": "Moblin Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Fireproof Lizard",
+          "quantity": 5
+        },
+        {
+          "name": "Moblin Fang",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Smotherwing Butterfly",
+          "quantity": 5
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Smotherwing Butterfly",
+          "quantity": 8
+        },
+        {
+          "name": "Hinox Guts",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Flamebreaker Armor",
+    "icon": "BotW_Flamebreaker_Armor_Icon.png",
+    "set": "Flamebreaker Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Fireproof Lizard",
+          "quantity": 3
+        },
+        {
+          "name": "Moblin Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Fireproof Lizard",
+          "quantity": 5
+        },
+        {
+          "name": "Moblin Fang",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Smotherwing Butterfly",
+          "quantity": 5
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Smotherwing Butterfly",
+          "quantity": 8
+        },
+        {
+          "name": "Hinox Guts",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Flamebreaker Boots",
+    "icon": "BotW_Flamebreaker_Boots_Icon.png",
+    "set": "Flamebreaker Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Fireproof Lizard",
+          "quantity": 3
+        },
+        {
+          "name": "Moblin Horn",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Fireproof Lizard",
+          "quantity": 5
+        },
+        {
+          "name": "Moblin Fang",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Smotherwing Butterfly",
+          "quantity": 5
+        },
+        {
+          "name": "Moblin Guts",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Smotherwing Butterfly",
+          "quantity": 8
+        },
+        {
+          "name": "Hinox Guts",
+          "quantity": 5
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Climber's Bandanna",
+    "icon": "BotW_Climber's_Bandanna_Icon.png",
+    "set": "Climbing Set",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Keese Wing",
+          "quantity": 3
+        },
+        {
+          "name": "Rushroom",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Electric Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Hightail Lizard",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Hot-Footed Frog",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Fire Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Swift Violet",
+          "quantity": 20
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Clinging Gear",
+    "icon": "BotW_Climbing_Gear_Icon.png",
+    "set": "Climbing Set",
+    "type": "Armor",
+    "levels": [
+      [
+        {
+          "name": "Keese Wing",
+          "quantity": 3
+        },
+        {
+          "name": "Rushroom",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Electric Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Hightail Lizard",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Hot-Footed Frog",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Fire Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Swift Violet",
+          "quantity": 20
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Climbing Boots",
+    "icon": "BotW_Climbing_Boots_Icon.png",
+    "set": "Climbing Set",
+    "type": "Boots",
+    "levels": [
+      [
+        {
+          "name": "Keese Wing",
+          "quantity": 3
+        },
+        {
+          "name": "Rushroom",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Electric Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Hightail Lizard",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ice Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Hot-Footed Frog",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Fire Keese Wing",
+          "quantity": 5
+        },
+        {
+          "name": "Swift Violet",
+          "quantity": 20
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Amber Earrings",
+    "icon": "BotW_Amber_Earrings_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Amber",
+          "quantity": 3
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 10
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 20
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Amber",
+          "quantity": 30
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Topaz Earrings",
+    "icon": "BotW_Topaz_Earrings_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Topaz",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 4
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 6
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Topaz",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Opal Earrings",
+    "icon": "BotW_Opal_Earrings_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Opal",
+          "quantity": 3
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 8
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 16
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Opal",
+          "quantity": 20
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Diamond Circlet",
+    "icon": "BotW_Diamond_Circlet_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Diamond",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Diamond",
+          "quantity": 4
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Diamond",
+          "quantity": 6
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Diamond",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Ruby Circlet",
+    "icon": "BotW_Ruby_Circlet_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Ruby",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 4
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 6
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Ruby",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Sapphire Circlet",
+    "icon": "BotW_Sapphire_Circlet_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 2
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 4
+        },
+        {
+          "name": "Flint",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 6
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Sapphire",
+          "quantity": 10
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Sheik's Mask",
+    "icon": "BotW_Sheik's_Mask_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 1
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        }
+      ],
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 2
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 2
+        }
+      ],
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 3
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 3
+        }
+      ],
+      [
+        {
+          "name": "Silent Princess",
+          "quantity": 4
+        },
+        {
+          "name": "Star Fragment",
+          "quantity": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Vah Ruta Divine Helm",
+    "icon": "BotW_Vah_Ruta_Divine_Helm_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Ancient Screw",
+          "quantity": 5
+        },
+        {
+          "name": "Ancient Spring",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ancient Spring",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Gear",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Ancient Shaft",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Core",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Giant Ancient Core",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Vah Medoh Divine Helm",
+    "icon": "BotW_Vah_Medoh_Divine_Helm_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Ancient Screw",
+          "quantity": 5
+        },
+        {
+          "name": "Ancient Spring",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ancient Spring",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Gear",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Ancient Shaft",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Core",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Giant Ancient Core",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Vah Rudania Divine Helm",
+    "icon": "BotW_Vah_Rudania_Divine_Helm_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Ancient Screw",
+          "quantity": 5
+        },
+        {
+          "name": "Ancient Spring",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ancient Spring",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Gear",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Ancient Shaft",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Core",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Giant Ancient Core",
+          "quantity": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Vah Naboris Divine Helm",
+    "icon": "BotW_Vah_Naboris_Divine_Helm_Icon.png",
+    "set": "Unique",
+    "type": "Helmet",
+    "levels": [
+      [
+        {
+          "name": "Ancient Screw",
+          "quantity": 5
+        },
+        {
+          "name": "Ancient Spring",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Ancient Spring",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Gear",
+          "quantity": 10
+        }
+      ],
+      [
+        {
+          "name": "Ancient Shaft",
+          "quantity": 15
+        },
+        {
+          "name": "Ancient Core",
+          "quantity": 5
+        }
+      ],
+      [
+        {
+          "name": "Star Fragment",
+          "quantity": 1
+        },
+        {
+          "name": "Giant Ancient Core",
+          "quantity": 2
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Zelda Breath of the Wild - Armor Upgrade Guide</title>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/resources/public/css/style.css">
+</head>
+<body>
+    <div id="app">
+        <nav class="navbar sticky-top navbar-light bg-light">
+            <a class="navbar-brand" href="#">Breath of the Wild <small>Armor Upgrade Guide</small></a>
+            <form class="form-inline">
+                <select data-bind="value: desiredLevel" class="form-control mr-sm-2">
+                    <option value="1">★</option>
+                    <option value="2">★★</option>
+                    <option value="3">★★★</option>
+                    <option value="4">★★★★</option>
+                </select>
+            </form>
+        </nav>
+        <div class="container-fluid mt-1">
+            <div class="row">
+                <div class="col-12 col-md-7 col-lg-8 col-xl-9">
+                    <div class="grid" data-bind="foreach: items">
+                        <div class="grid-item">
+                            <a href="#" data-bind="click: setLevel, attr: { title: name }" class="card" data-toggle="tooltip" data-placement="top">
+                                <img class="card-img-top" data-bind="attr: { src: '/resources/public/assets/' + icon }">
+                                <div class="stars">
+                                    <span data-bind="if: level() == 1">★</span>
+                                    <span data-bind="if: level() == 2">★★</span>
+                                    <span data-bind="if: level() == 3">★★★</span>
+                                    <span data-bind="if: level() == 4">★★★★</span>
+                                </div>
+                                <!--<div class="desiredStars">
+                                    <span data-bind="if: desiredLevel() == 1">★</span>
+                                    <span data-bind="if: desiredLevel() == 2">★★</span>
+                                    <span data-bind="if: desiredLevel() == 3">★★★</span>
+                                    <span data-bind="if: desiredLevel() == 4">★★★★</span>
+                                </div>-->
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-5 col-lg-4 col-xl-3">
+                    <div class="list-group list-group-flush" data-bind="foreach: requirements">
+                        <a class="list-group-item d-flex justify-content-between align-items-center">
+                            <span data-bind="text: name"></span>
+                            <span class="badge badge-secondary badge-pill" data-bind="text: quantity"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/node_modules/knockout/build/output/knockout-latest.js"></script>
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    <script src="/node_modules/masonry-layout/dist/masonry.pkgd.min.js"></script>
+    <script src="/node_modules/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="/resources/public/scripts/ItemViewModel.js"></script>
+    <script src="/resources/public/scripts/AppViewModel.js"></script>
+    <script>
+        ko.applyBindings(new AppViewModel());
+        $(function() {
+            var msnry = $('.grid').masonry({
+                'itemSelector': '.grid-item',
+                'columnWidth': 104,
+                fitWidth: true
+            });
+            msnry.imagesLoaded().progress(function() {
+                msnry.masonry('layout');
+            });
+        });
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "imagesloaded": "^4.1.4",
+    "jquery": "^3.3.1",
+    "knockout": "^3.5.0-beta",
+    "masonry-layout": "^4.2.1",
+    "popper.js": "^1.12.9"
+  }
+}
